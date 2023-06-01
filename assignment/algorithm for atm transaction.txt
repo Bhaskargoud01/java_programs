@@ -1,4 +1,4 @@
-1.start
+1.started
 2.go to the near by ATM machine
 3.insert the ATM card.
 4.select the language.
